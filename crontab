@@ -1,0 +1,6 @@
+PATH=/usr/local/bin:/usr/bin
+GIT_CONFIG_COUNT=1
+GIT_CONFIG_KEY_0=safe.directory
+GIT_CONFIG_VALUE_0='*'
+
+* * * * * /app/build.sh >> /proc/1/fd/1 2>&1
