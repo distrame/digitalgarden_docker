@@ -60,4 +60,5 @@ Docs for authoring and customizing the plugin and site are available at [dg-docs
 ## Credits
 
 @davidkopp - [Setup example](https://github.com/oleeskild/obsidian-digital-garden/discussions/160#discussioncomment-7126917)
+
 @foxblock - Dependabot setup. Also portions of this README are adapted from their [repository](https://github.com/foxblock/digitalgarden_gh-pages).
